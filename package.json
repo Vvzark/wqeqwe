@@ -1,0 +1,40 @@
+{
+  "//1": "Bu Altyapı Tamamen İkrudkaya Aittir..",
+  "//2": "https://discord.gg/xhyQXPN",
+  "name": "hello-express",
+  "version": "0.0.1",
+  "description": "",
+  "main": "ikrudka.js",
+  "scripts": {
+    "start": "node shard.js"
+  },
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "discord.js": "^12.2.0",
+    "express": "^4.17.1",
+    "hastebin-gen": "^2.0.5",
+    "jimp": "^0.12.1",
+    "moment": "^2.26.0",
+    "moment-duration-format": "^2.3.2",
+    "ms": "^2.1.2",
+    "parse-ms": "^2.1.0",
+    "quick.db": "^7.1.1",
+    "randomstring": "^1.1.5",
+    "simple-youtube-api": "^5.2.1",
+    "snekfetch": "^4.0.4",
+    "wio.db": "^4.0.9",
+    "ytdl-core": "^4.0.6"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
